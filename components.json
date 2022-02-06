@@ -3,8 +3,8 @@
    "data":[
       {
          "title":{
-            "en":"While loop",
-            "de":"While Schleife"
+            "en":"Main",
+            "de":"Hauptprogramm"
          },
          "description":{
             "de":"Beschreibung",
@@ -36,7 +36,7 @@
                "isChildContainer":true
             }
          ],
-         "identifier":"while-loop"
+         "identifier":"main-structure"
       }
    ]
 }
