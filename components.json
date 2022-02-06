@@ -11,29 +11,29 @@
             "en":"Description"
          },
          "acceptsChildren":true,
-         "rectangles": [
+         "rectangles":[
             {
                "border":{
-                     "width":"1px",
-                     "color":"#000",
-                     "style":4
-                  },
+                  "width":"1px",
+                  "color":"#000",
+                  "style":4
+               },
                "left":"0px",
-                  "top":"0px",
-                  "right":"0px",
-                  "bottom":"0px"
+               "top":"0px",
+               "right":"0px",
+               "bottom":"0px"
             },
             {
-             "border":{
-                     "width":"1px",
-                     "color":"#000",
-                     "style":4
-                  },
-                  "left":"20px",
-                  "top":"20px",
-                  "right":"0px",
-                  "bottom":"20px",
-                  "acceptsChildren":true  
+               "border":{
+                  "width":"1px",
+                  "color":"#000",
+                  "style":4
+               },
+               "left":"20px",
+               "top":"20px",
+               "right":"0px",
+               "bottom":"20px",
+               "acceptsChildren":true
             }
          ],
          "identifier":"while-loop"
