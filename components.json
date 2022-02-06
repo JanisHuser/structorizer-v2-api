@@ -33,7 +33,7 @@
                "top":"20px",
                "right":"0px",
                "bottom":"20px",
-               "acceptsChildren":true
+               "isChildContainer":true
             }
          ],
          "identifier":"while-loop"
