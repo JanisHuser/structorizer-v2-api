@@ -36,7 +36,10 @@
                "isChildContainer":true
             }
          ],
-         "identifier":"main-structure"
+         "identifier":
+         {
+            "identifier": "main-structure"
+         }
       }
    ]
 }
